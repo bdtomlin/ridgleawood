@@ -25,7 +25,7 @@ The assessment consists of the following items:
 | __Total__                                          | __$80,623.00__ |                                       |
 
 _* Cost based on vendor estimates_
-_** All unused contingency will be returned to the Members.
+_** All unused contingency will be returned to the Members._
 
 <!-- ![Hello, world](/content/images/hello.jpg) -->
 
