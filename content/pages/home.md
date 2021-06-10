@@ -16,8 +16,8 @@ The assessment consists of the following items:
 | Item to be fixed                                   | Cost *         |                                       |
 | -------------------------------------------------- | -------------- | ------------------------------------- |
 | Drainage Wall Repair                               | $54,200.00     | [details](/drainage-wall-repair.html) |
-| PIE Global Rock Wall Inspections                   | $3,500.00      | details                               |
-| Fixing the wall next to the south drive by Unit 27 | $6,700.00      | details                               |
+| PIE Global Rock Wall Inspections                   | $3,500.00      | [details](/pie.html)                  |
+| Fixing the wall next to the south drive by Unit 27 | $6,700.00      | [details](/unit-27-wall.html)         |
 | Fixing the pool and pool drainage issues           | $4,523.00      | details                               |
 | Dead tree and plant removal from the freeze        | $1,800.00      | details                               |
 | Unit 29 wall                                       | $2,500.00      | details                               |
