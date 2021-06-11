@@ -12,8 +12,8 @@ There are some issues with a lot of our rock walls throughout the complex. Pie g
 
 Here are some pictures of a few of the wall issues in the complex:
 
-![Rock wall issue](content/images/rock-wall-1.jpg)
-![Rock wall issue](content/images/rock-wall-2.jpg)
-![Rock wall issue](content/images/rock-wall-3.jpg)
-![Rock wall issue](content/images/rock-wall-4.jpg)
-![Rock wall issue](content/images/rock-wall-5.jpg)
+{% image "rock-wall-1.jpg" "Rock wall issue" %}
+{% image "rock-wall-2.jpg" "Rock wall issue" %}
+{% image "rock-wall-3.jpg" "Rock wall issue" %}
+{% image "rock-wall-4.jpg" "Rock wall issue" %}
+{% image "rock-wall-5.jpg" "Rock wall issue" %}

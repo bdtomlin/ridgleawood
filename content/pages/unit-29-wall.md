@@ -11,4 +11,4 @@ eleventyNavigation:
 Unit 29's wall is falling apart and needs to be replaced.
 
 
-![unit 29 wall](content/images/unit-29-wall.jpg)
+{% image "unit-29-wall.jpg" "unit 29 wall" %}
