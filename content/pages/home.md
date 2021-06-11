@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 0
   title: Assessment Overview
 ---
-Thank you for deciding to get informed on the upcoming proposed HOA assessment. This site was created in order for HOA Members like yourself to have videos and images that shows the details of the assessment and why it is necessary.
+Thank you for deciding to get informed on the upcoming proposed HOA assessment. This site was created in order for HOA Members like yourself to have videos and images that show the details of the assessment and why it is necessary.
 
 You can navigate the assessment items in the navigation or click the details link next to an item below.
 
