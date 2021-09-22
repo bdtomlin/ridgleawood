@@ -23,7 +23,7 @@ The assessment consists of the following items:
 | Rock Wall by Unit 27                | $6,700.00       | [details](/unit-27-wall.html)         |
 | Damaged Carport                     | $8,718.00       | [details](/pool.html)                 |
 | Dead plant removal from the freeze  | $2,075.00       | [details](/dead-plants.html)          |
-| Tree trimming and dead tree removal | $14,000.00      | [details](/dead-plants.html)          |
+| Tree trimming and dead tree removal | $14,000.00      | [details](/tree-trimming.html)        |
 | **Total**                           | **$117,615.50** |                                       |
 
 Here is the cost breakdown per unit with available payment options

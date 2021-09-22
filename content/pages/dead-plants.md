@@ -8,10 +8,8 @@ eleventyNavigation:
   title: Dead Plants
 ---
 
-The following images show some of the plants and trees that are dead or severely damaged from the freeze as well as some plants that have the potential to cause property damage. In some pictures they may look green, but that is just weeds growing up through them.
+The following images show some of the plants that are dead or severely damaged from the freeze as well as some plants that have the potential to cause property damage. In some pictures they may look green, but that is just weeds growing up through them the dead shrub or bush.
 
-{% image "plants-1.jpg" "dead plant" %}
-{% image "plants-2.jpg" "dead plant" %}
 {% image "plants-3.jpg" "dead plant" %}
 {% image "plants-4.jpg" "dead plant" %}
 {% image "plants-5.jpg" "dead plant" %}
