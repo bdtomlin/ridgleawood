@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /unit-27-wall.html
 eleventyNavigation:
   key: pie
-  order: 4
+  order: 5
   title: Wall next to unit 27
 ---
 
