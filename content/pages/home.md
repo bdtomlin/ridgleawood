@@ -14,7 +14,7 @@ You can navigate the assessment items in the navigation or click the details lin
 
 The assessment consists of the following items:
 
-| Item to be fixed                    | Cost            |
+| Item to be fixed                    | Cost            |                                       |
 | ----------------------------------- | --------------- | ------------------------------------- |
 | Drainage Engineering                | $8,500.00       | [details](/drainage-wall-repair.html) |
 | Drainage Repair                     | $68,500.00      | [details](/drainage-wall-repair.html) |
