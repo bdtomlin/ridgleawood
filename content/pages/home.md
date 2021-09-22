@@ -26,7 +26,7 @@ The assessment consists of the following items:
 | Tree trimming and dead tree removal | $14,000.00      | [details](/tree-trimming.html)        |
 | **Total**                           | **$117,615.50** |                                       |
 
-Here is the cost breakdown per unit with available payment options
+### List of cost breakdown per unit with available payment options
 
 | Unit # | Ownership % | 1 Payment | 3 Payments |
 | ------ | ----------- | --------- | ---------- |
