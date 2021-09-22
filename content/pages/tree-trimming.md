@@ -3,9 +3,9 @@ title: Tree Trimming
 date: Last Modified
 permalink: /tree-trimming.html
 eleventyNavigation:
-  key: plants
-  order: 5
-  title: Dead Plants
+  key: trees
+  order: 7
+  title: Tree Trimming
 ---
 
 We have many trees on the property that are already doing damage to property or will be very soon if they are not addressed.

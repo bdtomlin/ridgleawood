@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /pie.html
 eleventyNavigation:
   key: pie
-  order: 2
+  order: 3
   title: Rock Wall Inspections
 ---
 

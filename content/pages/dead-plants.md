@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /dead-plants.html
 eleventyNavigation:
   key: plants
-  order: 5
+  order: 6
   title: Dead Plants
 ---
 
