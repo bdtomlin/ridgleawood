@@ -8,9 +8,9 @@ eleventyNavigation:
   title: Drainage Wall Repair
 ---
 
-There are major issues with the drainage system between our homes and the golf course that causes water damage, flooding in our homes, and flooding of HOA Property when we get a substantial amount of rain in a short time. The drainage issue also causes standing water to sit for long periods of time when there is any rain, which is a breeding ground for mosquitos.
+There are major issues with our drainage wall between our homes and the golf course that cause flooding in several of our units when we get a substantial amount of rain in a short time. The drainage issue also causes standing water to sit for long periods of time when there is any rain. This is a breeding ground for mosquitos there are many swarming that area after rain.
 
-We have consulted with MJ Thomas Engineering and have been given a recommended plan for fixing the drainage ditch. The are links to those files after the videos below.
+We have consulted with MJ Thomas Engineering and have been given a recommendation and plan for fixing the drainage ditch. The are links to those files after the videos below.
 
 Here are some videos and pictures taken by some of our residents during a few different occurrences so you can see the issue.
 
